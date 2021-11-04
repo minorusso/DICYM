@@ -1,0 +1,39 @@
+.contact tr{
+height: 7rem;
+}
+.contact th{
+  width: 150px;
+  font-size: 1rem;
+  text-align: right;
+}
+.contact td{
+  width: 480px;
+  padding-left: 10px;
+}
+.form-text {
+    width: 100%;
+
+}
+.contact-sex + .contact-sex {
+    margin-left: 10px;
+}
+
+.contact-sex-txt {
+    margin-left: 5px;
+}
+.form-textarea {
+    width: 480px;
+}
+.submit input{
+  color: #fff;
+  background-color: #008B8B;
+  padding: 10px 10px;
+  text-align: center;
+  align-items: center;
+}
+.submit{
+  text-align: center;
+}
+.submit:hover{
+  opacity: 0.6;
+}
